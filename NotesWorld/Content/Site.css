@@ -22,3 +22,21 @@ select,
 textarea {
     max-width: 280px;
 }
+
+.bg {
+    background-image: url("https://www.digitalvidya.com/wp-content/uploads/2017/07/url-1-1170x630.jpg");
+    
+}
+
+.book_banner{
+    height:10px;
+    width:100%;
+    display:block;
+    background-color:red;
+}
+
+.float{
+    float:left;
+    height:10px;
+}
+
